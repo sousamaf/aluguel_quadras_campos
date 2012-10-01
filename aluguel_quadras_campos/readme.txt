@@ -1,12 +1,12 @@
 Projeto: Avaliador de carro por caracteristicas tecnicas
-Academico(a) responsavel: Kalessandre
+Academico(a) responsavel: Joaozinho
 
 Descricao do projeto:
-Sistema Web para buscar carros por caracteristicas tecnicas
+Sistema Web para gestao de quadras e campos para aluguel
 
 Features:
-- Cadastro de caracteristicas;
-- Busca por caracteristicas;
-- Cruzamento de caracteristicas;
-- Sugestao de carro mais proximo a uma descricao;
+- Cadastro de clientes;
+- Cadastro de campos;
+- Disponibilidade de horarios;
+- Agendamento;
 
